@@ -30,7 +30,7 @@ cd matematica-discreta-composicao
 
 4. Compile o programa e execute o programa:
 ```bash
-python composicao.py
+python main.py
 ```
 
 ## Exemplo de Uso
