@@ -28,7 +28,7 @@ git clone https://github.com/tuchanski/matematica-discreta-composicao
 cd matematica-discreta-composicao
 ```
 
-4. Compile o programa e execute o programa:
+4. Compile e execute o programa:
 ```bash
 python main.py
 ```
