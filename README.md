@@ -1,4 +1,4 @@
-# Projeto Operações entre Conjuntos
+# Projeto Composição entre Funções
 <p> O objetivo do programa é realizar a composição de duas funções f(x) e g(x). Projeto criado para a matéria de "Resolução de Problemas de Natureza Discreta", da PUCPR. </p>
 
 ## Tecnologias
