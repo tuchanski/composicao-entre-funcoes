@@ -4,7 +4,6 @@
 ## Tecnologias
 
 - Linguagem: Python
-- IDEs: Visual Studio Code
 
 ## Funcionalidades
 
