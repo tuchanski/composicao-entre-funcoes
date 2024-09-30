@@ -41,3 +41,7 @@ Digite o valor de x: 4
 (g ° g)(4.0) = 256.0
 (f ° f)(4.0) = 19.0
 (f ° g)(4.0) = 33.0
+
+## Author
+
+- [Guilherme Tuchanski Rocha | GitHub](https://github.com/tuchanski)
