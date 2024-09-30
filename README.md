@@ -1,4 +1,4 @@
-# Projeto Composição entre Funções
+# Projeto Composição entre Funções 📐e = ∑∞ⁿ⁼⁰ ¹ₙ🤓
 <p> O objetivo do programa é realizar a composição de duas funções f(x) e g(x). Projeto criado para a matéria de "Resolução de Problemas de Natureza Discreta", da PUCPR. </p>
 
 ## Tecnologias
