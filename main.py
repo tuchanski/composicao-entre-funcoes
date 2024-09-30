@@ -1,4 +1,3 @@
-# Guilherme Tuchanski Rocha, Guilherme Teixeira, Luiz Henrique Matoso
 def composicao(f, g):
   return lambda x: f(g(x))  # g(x) é aplicado à função f(x)
 
