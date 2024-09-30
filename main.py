@@ -26,5 +26,5 @@ def main():
   print("(f ° f)({}) =".format(x), fof(x))
   print("(f ° g)({}) =".format(x), fog(x))
 
-
-main()
+if __name__ == "__main__":
+    main()
