@@ -19,7 +19,7 @@ Este projeto oferece as seguintes funcionalidades:
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/tuchanski/matematica-discreta-composicao
+git clone https://github.com/tuchanski/matematica-discreta-composicao.git
 ```
 
 3. Navegue até o diretório do projeto:
