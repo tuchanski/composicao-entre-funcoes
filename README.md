@@ -19,12 +19,12 @@ Este projeto oferece as seguintes funcionalidades:
 2. Clone este repositório:
 
 ```bash
-git clone https://github.com/tuchanski/matematica-discreta-composicao.git
+git clone https://github.com/tuchanski/composicao-entre-funcoes.git
 ```
 
 3. Navegue até o diretório do projeto:
 ```bash
-cd matematica-discreta-composicao
+cd composicao-entre-funcoes
 ```
 
 4. Compile e execute o programa:
